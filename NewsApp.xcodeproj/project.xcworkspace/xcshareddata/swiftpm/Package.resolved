@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ImageWithActivityIndicator",
+        "repositoryURL": "https://github.com/AliAdam/ImageWithActivityIndicator.git",
+        "state": {
+          "branch": null,
+          "revision": "19dd89dee4ca498153d7a4bb412a5d917b57915f",
+          "version": "1.0.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
