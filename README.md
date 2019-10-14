@@ -1,10 +1,9 @@
 # NewsApplication
-Used [SwiftUI](https://developer.apple.com/xcode/swiftui) and [Combine](https://developer.apple.com/documentation/combine)  
-to with MVVM Design Pattern.
+Used [SwiftUI](https://developer.apple.com/xcode/swiftui) and [Combine](https://developer.apple.com/documentation/combine)with MVVM Design Pattern.
 
 MVVM Design:
 <p align="center">
-<img src="https://github.com/manojs27/NewsApplication/blob/master/Design%20Diagram.png" width="250">
+<img src="https://github.com/manojs27/NewsApplication/blob/master/Design%20Diagram.png" width="450">
 </p>
 
 ScreenShot:
