@@ -1,2 +1,18 @@
 # NewsApplication
 
+# SwiftUI-Combine-Example
+This is an example project of [SwiftUI](https://developer.apple.com/xcode/swiftui) and [Combine](https://developer.apple.com/documentation/combine)   
+
+<p align="center">
+<img src="https://github.com/manojs27/NewsApplication/blob/master/Screenshot.png" width="250">
+</p>
+
+## Requirements
+- Swift5.1 
+- Xcode11.0 
+- iOS 13.0 
+
+
+## Credit
+- [Official SwiftUI Tutorial](https://developer.apple.com/tutorials/swiftui)
+- [Combine Apple Developer Document](https://developer.apple.com/documentation/combine)
