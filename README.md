@@ -1,8 +1,13 @@
 # NewsApplication
+Used [SwiftUI](https://developer.apple.com/xcode/swiftui) and [Combine](https://developer.apple.com/documentation/combine)  
+to with MVVM Design Pattern.
 
-# SwiftUI-Combine-Example
-This is an example project of [SwiftUI](https://developer.apple.com/xcode/swiftui) and [Combine](https://developer.apple.com/documentation/combine)   
+MVVM Design:
+<p align="center">
+<img src="https://github.com/manojs27/NewsApplication/blob/master/Design%20Diagram.png" width="250">
+</p>
 
+ScreenShot:
 <p align="center">
 <img src="https://github.com/manojs27/NewsApplication/blob/master/Screenshot.png" width="250">
 </p>
